@@ -1,0 +1,23 @@
+01;Hospital Sultanah Aminah (Johor Bharu)
+05;Hospital Tuanku Jaafar (Seremban, Negeri Sembilan)
+04;Hospital Melaka (Melaka)
+10;Hospital Tengku Ampuan Rahimah (Klang, Selangor)
+08;Hospital Raja Permaisuri Bainun (Ipoh, Perak)
+02;Hospital Sultanah Bahiyah, Kedah (Alor Star, Kedah)
+07;Hospital Pulau Pinang (Pulau Pinang)
+09;Hospital Tuanku Fauziah (Kangar, Perlis)
+03;Hospital Raja Perempuan Zainab II (Kota Bharu, Kelantan)
+11;Hospital Sultanah Nur Zahirah (Kuala Terengganu, Terengganu)
+06;Hospital Tengku Ampuan Afzan (Kuantan, Pahang);
+13;Hospital Umum Sarawak (Kuching, Sarawak)
+12;Hospital Queen Elizabeth (Kota Kinabalu, Sabah)
+15;Hospital Labuan (Labuan)
+01;Johor Palestinian Care Center
+01;Child Care Center Johor Bahru
+10;We Care for Palestine Selangor
+10;Warga Emas Blood Center 
+04;Bandaraya Melaka Prihatin Darah
+08;Ipoh Blood Donation Center
+05;Sembilan Darah Satria
+14;Hospital Putrajaya
+14;Wilayah Care We Live Ya

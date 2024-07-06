@@ -1,0 +1,516 @@
+
+===============================================
+				REPORT
++++++++++++++++++++++++++++++++++++++++++++++++
+
+===============================================
+	Statistics of eligible donors
++++++++++++++++++++++++++++++++++++++++++++++++
+	Variables*						Value 
+
+	Age                           : 25.67
+	Pulse (bpm)                   : 84.33
+	Blood Pressure (mmHg)         : 115.47
+	Body Temperature (Celcius)    : 36.77
+	Hemoglobin Level (g/dL)       : 14.71
+	Blood volume (litres)*        : 66.45
+	Blood Type A*                 : 5
+	Blood Type B*                 : 3
+	Blood Type AB*                : 3
+	Blood Type O*                 : 4
+	
+Values are in average, * indicates total
+	
+===============================================
+				Status of donors:
++++++++++++++++++++++++++++++++++++++++++++++++
+	Eligible                      : 15
+	Ineligible                    : 8
+	Diseases                      : 2
+	Total                         : 23
+	
+Donors who have diseases are also ineligible.
+	Hence, they are not counted in the total.
++++++++++++++++++++++++++++++++++++++++++++++++
+
+===============================================
+
+
+================================================================================================
+							ELIGIBLE (15 People)
+================================================================================================
+
+IC Num.     	BloodType	Weight 		Height	Pulse	B.Pressure	Body  	Hemoglobin	Has       
+            	         	(KG)   		(CM)  	(BMP)	  (mmHG)  	Temp  	Level     	Disease   
+951027031313		B 		72.50		168.20	  92 	  115.00	36.90	14.50		false
+010706061306		A 		54.80		158.70	  87 	  118.00	36.90	13.50		false
+820919091312		A 		62.00		165.20	  86 	  115.00	36.80	15.10		false
+920512021313		A 		66.90		172.80	  88 	  118.00	36.60	15.00		false
+910102021306		AB		45.60		157.90	  93 	  120.00	36.70	14.40		false
+030607071305		O 		68.70		169.70	  77 	  115.00	36.70	13.70		false
+030911101309		B 		41.20		169.50	  80 	  112.00	36.80	14.00		false
+040103031312		A 		120.00		167.80	  81 	  115.00	36.90	14.90		false
+001020101310		AB		60.00		163.00	  83 	  112.00	36.70	14.80		false
+001010101312		O 		51.60		159.60	  76 	  115.00	36.80	15.00		false
+040811101307		O 		81.30		172.00	  75 	  118.00	36.60	15.50		false
+890919091314		A 		62.20		167.40	  86 	  115.00	36.80	15.10		false
+070301011308		O 		63.50		165.80	  79 	  112.00	36.80	15.40		false
+030504251308		B 		57.40		163.70	  89 	  112.00	36.80	15.30		false
+010207021306		AB		63.70		169.40	  93 	  120.00	36.70	14.40		false
+
+================================================================================================
+							NOT ELIGIBLE (8 People)
+================================================================================================
+
+IC Num.     	BloodType	Weight 		Height	Pulse	B.Pressure	Body  	Hemoglobin	Has       
+            	         	(KG)   		(CM)  	(BMP)	  (mmHG)  	Temp  	Level     	Disease   
+401112051310		A 		55.50		166.00	  85 	  112.00	36.70	13.80		false
+720311011311		AB		54.30		159.40	  110	  122.00	37.00	11.60		true 
+020804041317		B 		70.60		168.00	  82 	  115.00	36.70	13.00		false
+041212121312		B 		89.70		174.00	  91 	  105.00	36.90	14.20		false
+990808130545		O 		39.70		165.70	  78 	  112.00	36.80	19.20		false
+071007130707		A 		59.40		172.00	  132	  112.00	36.80	14.80		true 
+090802081306		B 		107.20		174.00	  84 	  115.00	36.70	14.60		false
+890401101847		O 		54.70		165.40	  87 	  186.00	36.90	14.00		false
+
+================================================================================================
+							HAS DISEASE (2 People)
+================================================================================================
+
+IC Num.     	BloodType	Weight 		Height	Pulse	B.Pressure	Body  	Hemoglobin	Has       
+            	         	(KG)   		(CM)  	(BMP)	  (mmHG)  	Temp  	Level     	Disease   
+720311011311		AB		54.30		159.40	  110	  122.00	37.00	11.60		true 
+071007130707		A 		59.40		172.00	  132	  112.00	36.80	14.80		true 
+
+================================================================================================
+
+================================================================================================
+
+
+
+
+
+
+
+	DETAILS: A long detail section of the report. Shows all details of donators.
+
+=======================================================
+			ELIGIBLE (15 People)
+=======================================================
+
+(1)-------------------------------------------------
+
+Personal Details :
+Name         = Danish Iman bin Sharifuddin
+IC Number    = 951027031313
+Blood Type   = B
+Weight (kg)  = 72.5
+Height (cm)  = 168.2
+
+Checkup Details: 
+Pulse            = 92
+B.Pressure       = 115.0
+Temperature      = 36.9
+Hemoglobin Level = 14.5
+Has Disease      = false
+
+(2)-------------------------------------------------
+
+Personal Details :
+Name         = Afizah binti Abdullah
+IC Number    = 010706061306
+Blood Type   = A
+Weight (kg)  = 54.8
+Height (cm)  = 158.7
+
+Checkup Details: 
+Pulse            = 87
+B.Pressure       = 118.0
+Temperature      = 36.9
+Hemoglobin Level = 13.5
+Has Disease      = false
+
+(3)-------------------------------------------------
+
+Personal Details :
+Name         = Priya Sharma
+IC Number    = 820919091312
+Blood Type   = A
+Weight (kg)  = 62.0
+Height (cm)  = 165.2
+
+Checkup Details: 
+Pulse            = 86
+B.Pressure       = 115.0
+Temperature      = 36.8
+Hemoglobin Level = 15.1
+Has Disease      = false
+
+(4)-------------------------------------------------
+
+Personal Details :
+Name         = Muhammad Haziq bin Johari
+IC Number    = 920512021313
+Blood Type   = A
+Weight (kg)  = 66.9
+Height (cm)  = 172.8
+
+Checkup Details: 
+Pulse            = 88
+B.Pressure       = 118.0
+Temperature      = 36.6
+Hemoglobin Level = 15.0
+Has Disease      = false
+
+(5)-------------------------------------------------
+
+Personal Details :
+Name         = Shazwani Shah binti Ali Syafiq
+IC Number    = 910102021306
+Blood Type   = AB
+Weight (kg)  = 45.6
+Height (cm)  = 157.9
+
+Checkup Details: 
+Pulse            = 93
+B.Pressure       = 120.0
+Temperature      = 36.7
+Hemoglobin Level = 14.4
+Has Disease      = false
+
+(6)-------------------------------------------------
+
+Personal Details :
+Name         = Raj Kumar
+IC Number    = 030607071305
+Blood Type   = O
+Weight (kg)  = 68.7
+Height (cm)  = 169.7
+
+Checkup Details: 
+Pulse            = 77
+B.Pressure       = 115.0
+Temperature      = 36.7
+Hemoglobin Level = 13.7
+Has Disease      = false
+
+(7)-------------------------------------------------
+
+Personal Details :
+Name         = Shazwan Aizad bin Adam
+IC Number    = 030911101309
+Blood Type   = B
+Weight (kg)  = 41.2
+Height (cm)  = 169.5
+
+Checkup Details: 
+Pulse            = 80
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 14.0
+Has Disease      = false
+
+(8)-------------------------------------------------
+
+Personal Details :
+Name         = Ashley Fom Kar Wei
+IC Number    = 040103031312
+Blood Type   = A
+Weight (kg)  = 120.0
+Height (cm)  = 167.8
+
+Checkup Details: 
+Pulse            = 81
+B.Pressure       = 115.0
+Temperature      = 36.9
+Hemoglobin Level = 14.9
+Has Disease      = false
+
+(9)-------------------------------------------------
+
+Personal Details :
+Name         = Nur Izzah Syahirah binti Mohd Hazzan
+IC Number    = 001020101310
+Blood Type   = AB
+Weight (kg)  = 60.0
+Height (cm)  = 163.0
+
+Checkup Details: 
+Pulse            = 83
+B.Pressure       = 112.0
+Temperature      = 36.7
+Hemoglobin Level = 14.8
+Has Disease      = false
+
+(10)-------------------------------------------------
+
+Personal Details :
+Name         = Nuramalin Qistina binti Mokhtar
+IC Number    = 001010101312
+Blood Type   = O
+Weight (kg)  = 51.6
+Height (cm)  = 159.6
+
+Checkup Details: 
+Pulse            = 76
+B.Pressure       = 115.0
+Temperature      = 36.8
+Hemoglobin Level = 15.0
+Has Disease      = false
+
+(11)-------------------------------------------------
+
+Personal Details :
+Name         = Shazali Samad bin Muhammad Fitri
+IC Number    = 040811101307
+Blood Type   = O
+Weight (kg)  = 81.3
+Height (cm)  = 172.0
+
+Checkup Details: 
+Pulse            = 75
+B.Pressure       = 118.0
+Temperature      = 36.6
+Hemoglobin Level = 15.5
+Has Disease      = false
+
+(12)-------------------------------------------------
+
+Personal Details :
+Name         = Yeoh Jia Yi Samantha
+IC Number    = 890919091314
+Blood Type   = A
+Weight (kg)  = 62.2
+Height (cm)  = 167.4
+
+Checkup Details: 
+Pulse            = 86
+B.Pressure       = 115.0
+Temperature      = 36.8
+Hemoglobin Level = 15.1
+Has Disease      = false
+
+(13)-------------------------------------------------
+
+Personal Details :
+Name         = Asfa Najwa Binti Arisa Syukri
+IC Number    = 070301011308
+Blood Type   = O
+Weight (kg)  = 63.5
+Height (cm)  = 165.8
+
+Checkup Details: 
+Pulse            = 79
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 15.4
+Has Disease      = false
+
+(14)-------------------------------------------------
+
+Personal Details :
+Name         = Lailatul Umiyah binti Shaleh
+IC Number    = 030504251308
+Blood Type   = B
+Weight (kg)  = 57.4
+Height (cm)  = 163.7
+
+Checkup Details: 
+Pulse            = 89
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 15.3
+Has Disease      = false
+
+(15)-------------------------------------------------
+
+Personal Details :
+Name         = Shazwani Shah binti Ali Syafiq
+IC Number    = 010207021306
+Blood Type   = AB
+Weight (kg)  = 63.7
+Height (cm)  = 169.4
+
+Checkup Details: 
+Pulse            = 93
+B.Pressure       = 120.0
+Temperature      = 36.7
+Hemoglobin Level = 14.4
+Has Disease      = false
+
+
+=======================================================
+			NOT ELIGIBLE (8 People)
+=======================================================
+
+(1)-------------------------------------------------
+
+Personal Details :
+Name         = Shazalia Alia binti Harith Haikal
+IC Number    = 401112051310
+Blood Type   = A
+Weight (kg)  = 55.5
+Height (cm)  = 166.0
+
+Checkup Details: 
+Pulse            = 85
+B.Pressure       = 112.0
+Temperature      = 36.7
+Hemoglobin Level = 13.8
+Has Disease      = false
+
+(2)-------------------------------------------------
+
+Personal Details :
+Name         = Shazlina Alea binti Abdul Aziz
+IC Number    = 720311011311
+Blood Type   = AB
+Weight (kg)  = 54.3
+Height (cm)  = 159.4
+
+Checkup Details: 
+Pulse            = 110
+B.Pressure       = 122.0
+Temperature      = 37.0
+Hemoglobin Level = 11.6
+Has Disease      = true
+
+(3)-------------------------------------------------
+
+Personal Details :
+Name         = Haziq Akmal bin Noor Azli
+IC Number    = 020804041317
+Blood Type   = B
+Weight (kg)  = 70.6
+Height (cm)  = 168.0
+
+Checkup Details: 
+Pulse            = 82
+B.Pressure       = 115.0
+Temperature      = 36.7
+Hemoglobin Level = 13.0
+Has Disease      = false
+
+(4)-------------------------------------------------
+
+Personal Details :
+Name         = Sam Yin Thong
+IC Number    = 041212121312
+Blood Type   = B
+Weight (kg)  = 89.7
+Height (cm)  = 174.0
+
+Checkup Details: 
+Pulse            = 91
+B.Pressure       = 105.0
+Temperature      = 36.9
+Hemoglobin Level = 14.2
+Has Disease      = false
+
+(5)-------------------------------------------------
+
+Personal Details :
+Name         = Muhammad Ammar Zarif bin Junaidi
+IC Number    = 990808130545
+Blood Type   = O
+Weight (kg)  = 39.7
+Height (cm)  = 165.7
+
+Checkup Details: 
+Pulse            = 78
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 19.2
+Has Disease      = false
+
+(6)-------------------------------------------------
+
+Personal Details :
+Name         = Muhammad Miqhail bin Mohd Elias
+IC Number    = 071007130707
+Blood Type   = A
+Weight (kg)  = 59.4
+Height (cm)  = 172.0
+
+Checkup Details: 
+Pulse            = 132
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 14.8
+Has Disease      = true
+
+(7)-------------------------------------------------
+
+Personal Details :
+Name         = Arjun Patel
+IC Number    = 090802081306
+Blood Type   = B
+Weight (kg)  = 107.2
+Height (cm)  = 174.0
+
+Checkup Details: 
+Pulse            = 84
+B.Pressure       = 115.0
+Temperature      = 36.7
+Hemoglobin Level = 14.6
+Has Disease      = false
+
+(8)-------------------------------------------------
+
+Personal Details :
+Name         = Yasmin Nur Irdina Binti Ya'acob
+IC Number    = 890401101847
+Blood Type   = O
+Weight (kg)  = 54.7
+Height (cm)  = 165.4
+
+Checkup Details: 
+Pulse            = 87
+B.Pressure       = 186.0
+Temperature      = 36.9
+Hemoglobin Level = 14.0
+Has Disease      = false
+
+
+=======================================================
+			HAS DISEASE (2 People)
+=======================================================
+
+(1)-------------------------------------------------
+
+Personal Details :
+Name         = Shazlina Alea binti Abdul Aziz
+IC Number    = 720311011311
+Blood Type   = AB
+Weight (kg)  = 54.3
+Height (cm)  = 159.4
+
+Checkup Details: 
+Pulse            = 110
+B.Pressure       = 122.0
+Temperature      = 37.0
+Hemoglobin Level = 11.6
+Has Disease      = true
+
+(2)-------------------------------------------------
+
+Personal Details :
+Name         = Muhammad Miqhail bin Mohd Elias
+IC Number    = 071007130707
+Blood Type   = A
+Weight (kg)  = 59.4
+Height (cm)  = 172.0
+
+Checkup Details: 
+Pulse            = 132
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 14.8
+Has Disease      = true
+
+
+=======================================================
+
+			 Date Generated : 2024-01-22
+
+=======================================================

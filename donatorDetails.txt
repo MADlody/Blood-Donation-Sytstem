@@ -1,0 +1,20 @@
+===============================================
+			DONOR CANDIDATE DETAILS
++++++++++++++++++++++++++++++++++++++++++++++++
+Eligible Candidate
+
+Personal Details :
+Name         = Lailatul Umiyah binti Shaleh
+IC Number    = 030504251308
+Blood Type   = B
+Weight (kg)  = 57.4
+Height (cm)  = 163.7
+
+Checkup Details: 
+Pulse            = 89
+B.Pressure       = 112.0
+Temperature      = 36.8
+Hemoglobin Level = 15.3
+Has Disease      = false
+
+===============================================

@@ -1,0 +1,23 @@
+Danish Iman bin Sharifuddin;951027031313;B;72.50;168.2;92;115.0;36.9;14.5;false
+Afizah binti Abdullah;010706061306;A;54.8;158.7;87;118.0;36.9;13.5;false
+Priya Sharma;820919091312;A;62.0;165.2;86;115.0;36.8;15.1;false
+Shazalia Alia binti Harith Haikal;401112051310;A;55.5;166.0;85;112.0;36.7;13.8;false
+Muhammad Haziq bin Johari;920512021313;A;66.9;172.8;88;118.0;36.6;15;false
+Shazwani Shah binti Ali Syafiq;910102021306;AB;45.6;157.9;93;120.0;36.7;14.4;false
+Raj Kumar;030607071305;O;68.7;169.7;77;115.0;36.7;13.7;false
+Shazlina Alea binti Abdul Aziz;720311011311;AB;54.3;159.4;110;122.0;37.0;11.6;true
+Shazwan Aizad bin Adam;030911101309;B;41.2;169.5;80;112.0;36.8;14;false
+Haziq Akmal bin Noor Azli;020804041317;B;70.6;168.0;82;115.0;36.7;13;false
+Sam Yin Thong;041212121312;B;89.7;174.0;91;105.0;36.9;14.2;false
+Ashley Fom Kar Wei;040103031312;A;120.0;167.8;81;115.0;36.9;14.9;false
+Nur Izzah Syahirah binti Mohd Hazzan;001020101310;AB;60.0;163.0;83;112.0;36.7;14.8;false
+Nuramalin Qistina binti Mokhtar;001010101312;O;51.6;159.6;76;115.0;36.8;15;false
+Shazali Samad bin Muhammad Fitri;040811101307;O;81.3;172.0;75;118.0;36.6;15.5;false
+Yeoh Jia Yi Samantha;890919091314;A;62.2;167.4;86;115.0;36.8;15.1;false
+Muhammad Ammar Zarif bin Junaidi;990808130545;O;39.7;165.7;78;112.0;36.8;19.2;false
+Muhammad Miqhail bin Mohd Elias;071007130707;A;59.4;172.0;132;112.0;36.8;14.8;true
+Asfa Najwa Binti Arisa Syukri;070301011308;O;63.5;165.8;79;112.0;36.8;15.4;false
+Lailatul Umiyah binti Shaleh;030504251308;B;57.4;163.7;89;112.0;36.8;15.3;false
+Arjun Patel;090802081306;B;107.2;174.0;84;115.0;36.7;14.6;false
+Shazwani Shah binti Ali Syafiq;010207021306;AB;63.7;169.4;93;120.0;36.7;14.4;false
+Yasmin Nur Irdina Binti Ya'acob;890401101847;O;54.7;165.4;87;186.0;36.9;14;false
